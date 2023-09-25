@@ -25,20 +25,10 @@
 
 ### 😄 About Me 😄
 
-<a href="https://www.notion.so/SoJaeYeon-3beb0913f96d4a168c1a12e5e936a38a?pvs=4">
+<a href="https://dydqja.notion.site/ba2a5a136f4841f2a06d2009ecfdbd44?pvs=4">  
   <img src="https://img.shields.io/badge/notion(포트폴리오)-9999FF?style=flat-square&logo=notion&logoColor=white" />
 </a>
 <br/>
-
-<a href="https://ssojae95.tistory.com/">
-  <img src="https://img.shields.io/badge/tistory(블로그)-FA6831?style=flat-square&logo=tistory&logoColor=white" />
-</a>
-<br/>
-
-<a href="https://www.instagram.com/ssojae95/">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-
 <br/>
 
 ### ▲ Click ▲
